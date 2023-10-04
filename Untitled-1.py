@@ -34,4 +34,14 @@ registro = Lista()
 registro.registro(254589,"Pepito")
 registro.registro(987451,"Juanito")
 registro.registro(658947,"Fulanito")
+
+print("Las personas que se hospedan en el hotel son: \n")
 registro.imprimir()
+
+salida=Lista()
+salida.registro(89456,"Mariana")
+salida.registro(54365,"Erick")
+salida.registro(98452,"Sofia")
+
+print("La personas que salieron del hotel son: \n")
+salida.imprimir()
